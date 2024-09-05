@@ -45,7 +45,9 @@ print(cleaned_string)
    "metadata": {},
    "source": [
     "2. (1 pt) Write a while loop that increments counter until it reaches 7."
-   ]
+   ] while counter < 7:
+    counter += 1
+    print(counter)
   },
   {
    "cell_type": "code",
